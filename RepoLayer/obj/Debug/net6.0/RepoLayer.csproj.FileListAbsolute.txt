@@ -1,0 +1,15 @@
+/home/rodin/Documents/code/projects/ProjectOneWithFE/RepoLayer/bin/Debug/net6.0/RepoLayer.deps.json
+/home/rodin/Documents/code/projects/ProjectOneWithFE/RepoLayer/bin/Debug/net6.0/RepoLayer.dll
+/home/rodin/Documents/code/projects/ProjectOneWithFE/RepoLayer/bin/Debug/net6.0/ref/RepoLayer.dll
+/home/rodin/Documents/code/projects/ProjectOneWithFE/RepoLayer/bin/Debug/net6.0/RepoLayer.pdb
+/home/rodin/Documents/code/projects/ProjectOneWithFE/RepoLayer/bin/Debug/net6.0/Models.dll
+/home/rodin/Documents/code/projects/ProjectOneWithFE/RepoLayer/bin/Debug/net6.0/Models.pdb
+/home/rodin/Documents/code/projects/ProjectOneWithFE/RepoLayer/obj/Debug/net6.0/RepoLayer.csproj.AssemblyReference.cache
+/home/rodin/Documents/code/projects/ProjectOneWithFE/RepoLayer/obj/Debug/net6.0/RepoLayer.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodin/Documents/code/projects/ProjectOneWithFE/RepoLayer/obj/Debug/net6.0/RepoLayer.AssemblyInfoInputs.cache
+/home/rodin/Documents/code/projects/ProjectOneWithFE/RepoLayer/obj/Debug/net6.0/RepoLayer.AssemblyInfo.cs
+/home/rodin/Documents/code/projects/ProjectOneWithFE/RepoLayer/obj/Debug/net6.0/RepoLayer.csproj.CoreCompileInputs.cache
+/home/rodin/Documents/code/projects/ProjectOneWithFE/RepoLayer/obj/Debug/net6.0/RepoLayer.csproj.CopyComplete
+/home/rodin/Documents/code/projects/ProjectOneWithFE/RepoLayer/obj/Debug/net6.0/RepoLayer.dll
+/home/rodin/Documents/code/projects/ProjectOneWithFE/RepoLayer/obj/Debug/net6.0/ref/RepoLayer.dll
+/home/rodin/Documents/code/projects/ProjectOneWithFE/RepoLayer/obj/Debug/net6.0/RepoLayer.pdb

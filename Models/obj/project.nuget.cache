@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fm82Wf/RiRP4TZyGhEhSl3pWCspoJcf6GbQGUxb3MQLMX7kwPfn2/Bxch9tYyAwf0469P8H82ue0pXcJi4MdPg==",
+  "success": true,
+  "projectFilePath": "/home/rodin/Documents/code/projects/ProjectOneWithFE/Models/Models.csproj",
+  "expectedPackageFiles": [
+    "/home/rodin/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

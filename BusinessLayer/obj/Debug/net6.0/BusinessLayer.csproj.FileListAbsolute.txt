@@ -1,0 +1,17 @@
+/home/rodin/Documents/code/projects/ProjectOneWithFE/BusinessLayer/bin/Debug/net6.0/BusinessLayer.deps.json
+/home/rodin/Documents/code/projects/ProjectOneWithFE/BusinessLayer/bin/Debug/net6.0/BusinessLayer.dll
+/home/rodin/Documents/code/projects/ProjectOneWithFE/BusinessLayer/bin/Debug/net6.0/ref/BusinessLayer.dll
+/home/rodin/Documents/code/projects/ProjectOneWithFE/BusinessLayer/bin/Debug/net6.0/BusinessLayer.pdb
+/home/rodin/Documents/code/projects/ProjectOneWithFE/BusinessLayer/bin/Debug/net6.0/Models.dll
+/home/rodin/Documents/code/projects/ProjectOneWithFE/BusinessLayer/bin/Debug/net6.0/RepoLayer.dll
+/home/rodin/Documents/code/projects/ProjectOneWithFE/BusinessLayer/bin/Debug/net6.0/RepoLayer.pdb
+/home/rodin/Documents/code/projects/ProjectOneWithFE/BusinessLayer/bin/Debug/net6.0/Models.pdb
+/home/rodin/Documents/code/projects/ProjectOneWithFE/BusinessLayer/obj/Debug/net6.0/BusinessLayer.csproj.AssemblyReference.cache
+/home/rodin/Documents/code/projects/ProjectOneWithFE/BusinessLayer/obj/Debug/net6.0/BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodin/Documents/code/projects/ProjectOneWithFE/BusinessLayer/obj/Debug/net6.0/BusinessLayer.AssemblyInfoInputs.cache
+/home/rodin/Documents/code/projects/ProjectOneWithFE/BusinessLayer/obj/Debug/net6.0/BusinessLayer.AssemblyInfo.cs
+/home/rodin/Documents/code/projects/ProjectOneWithFE/BusinessLayer/obj/Debug/net6.0/BusinessLayer.csproj.CoreCompileInputs.cache
+/home/rodin/Documents/code/projects/ProjectOneWithFE/BusinessLayer/obj/Debug/net6.0/BusinessLayer.csproj.CopyComplete
+/home/rodin/Documents/code/projects/ProjectOneWithFE/BusinessLayer/obj/Debug/net6.0/BusinessLayer.dll
+/home/rodin/Documents/code/projects/ProjectOneWithFE/BusinessLayer/obj/Debug/net6.0/ref/BusinessLayer.dll
+/home/rodin/Documents/code/projects/ProjectOneWithFE/BusinessLayer/obj/Debug/net6.0/BusinessLayer.pdb
